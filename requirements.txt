@@ -3,6 +3,7 @@ viam-sdk>=0.21
 numpy <2
 torch==2.0
 torchvision == 0.14
+onnxruntime==1.20.1
 opencv-python
 pillow
 
